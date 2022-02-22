@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mattymill33
+- 👋 Hi, I’m @matt-mill
 - 👀 I’m interested in learing
 - 🌱 I’m currently learning how to code
 - 💞️ I’m looking to collaborate on projects
